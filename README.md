@@ -1,2 +1,1 @@
-# DM_Workshop
-2023 ICRA workshop
+## DiTer (Diverse Terrain and Multi-Modal Datastes) in ICRA 2023 workshop on Future of Construction
